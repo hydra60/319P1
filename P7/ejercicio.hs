@@ -10,6 +10,7 @@ resta x y = x - y
 multiplicasion :: Int -> Int -> Int
 multiplicasion x y = x * y
 --division de dos numeros
+
 divicion :: Int -> Int -> Int
 divicion x y = x `div` y
 
