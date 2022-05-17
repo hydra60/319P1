@@ -1,0 +1,17 @@
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\bin\Debug\net6.0-windows\ejercicio1.exe
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\bin\Debug\net6.0-windows\ejercicio1.deps.json
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\bin\Debug\net6.0-windows\ejercicio1.runtimeconfig.json
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\bin\Debug\net6.0-windows\ejercicio1.dll
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\bin\Debug\net6.0-windows\ejercicio1.pdb
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\obj\Debug\net6.0-windows\ejercicio1.vbproj.AssemblyReference.cache
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\obj\Debug\net6.0-windows\ejercicio1.Form1.resources
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\obj\Debug\net6.0-windows\ejercicio1.vbproj.GenerateResource.cache
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\obj\Debug\net6.0-windows\ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\obj\Debug\net6.0-windows\ejercicio1.AssemblyInfoInputs.cache
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\obj\Debug\net6.0-windows\ejercicio1.AssemblyInfo.vb
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\obj\Debug\net6.0-windows\ejercicio1.vbproj.CoreCompileInputs.cache
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\obj\Debug\net6.0-windows\ejercicio1.dll
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\obj\Debug\net6.0-windows\refint\ejercicio1.dll
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\obj\Debug\net6.0-windows\ejercicio1.pdb
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\obj\Debug\net6.0-windows\ejercicio1.genruntimeconfig.cache
+E:\WORKBenjamin\319\ejercicio1\ejercicio1\obj\Debug\net6.0-windows\ref\ejercicio1.dll
